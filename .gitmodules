@@ -1,0 +1,3 @@
+[submodule "scribbleit_config"]
+	path = scribbleit_config
+	url = git@github.com:dhuyartmaker/scribbleit_config.git
