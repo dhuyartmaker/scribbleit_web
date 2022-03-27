@@ -39,7 +39,7 @@ const newBucket = paintFill(screenGrid, 4, 4, 3);
 for (const item of newBucket) {
   console.log(...item);
 }
-/*
+/*s
 1 1 1 1 1 1 1 1
 1 1 1 1 1 1 0 0
 1 0 0 1 1 0 1 1
